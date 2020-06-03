@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import { Alert, Button, Text, TextInput, View, StyleSheet } from 'react-native';
 
 export default function LogIn() {
